@@ -1,0 +1,3 @@
+command : seudo
+uses : reset the passwords and do the actions
+example : sudo passwd sammy
