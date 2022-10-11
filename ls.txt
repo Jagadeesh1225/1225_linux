@@ -1,1 +1,2 @@
-command
+command : ls --->> list of files
+uses : show the files in tehe certain list
