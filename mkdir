@@ -1,0 +1,2 @@
+command : mkdir
+uses : to a create a new file in a specific repository
