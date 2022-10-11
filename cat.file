@@ -1,0 +1,3 @@
+command : cat 
+uses : to a show or display a  specific files
+example : cat teciment.txt
